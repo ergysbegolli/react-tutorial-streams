@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "a stream",
+      "description": "is gonna be deleted",
+      "id": 1
+    },
+    {
+      "title": "my stream",
+      "description": "this is super",
+      "id": 2
+    },
+    {
+      "title": "just a mf stream",
+      "description": "ye you can read can't you?",
+      "userId": "100845887141548140484",
+      "id": 3
+    },
+    {
+      "title": "naj gjo tre?",
+      "description": "kot dit karantine",
+      "userId": "100845887141548140484",
+      "id": 4
+    },
+    {
+      "title": "mayday mayday",
+      "description": "do u hear me?",
+      "userId": "100845887141548140484",
+      "id": 5
+    }
+  ]
+}
